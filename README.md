@@ -13,6 +13,7 @@ The V6O project is based on making a V60-style drip machine.
 * Dripper.
 * Rotating plate that spins the dripper.
 * Two small hoses.
+* LEDs
 
 ## Requirements
 * C++17 or newer.
