@@ -158,7 +158,6 @@ $("go").onclick = async () => {
   run = { time: 0, current: 1 };
   renderPours();
 
-  // تفريغ الكوب
   $("cup").setAttribute("height", 0);
   $("cup").setAttribute("y", 273);
 
